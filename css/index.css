@@ -19,8 +19,8 @@ footer {
 }
 
 .bg {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height:max-content;
   z-index: -1;
 }
 
@@ -28,7 +28,7 @@ footer {
   display: flex;
   margin: 0 auto;
   box-sizing: border-box;
-  height: 20px;
+  height: 70px;
   animation-name: slidein;
   position: relative;
 }

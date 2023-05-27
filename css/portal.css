@@ -9,10 +9,10 @@ body {
   width: fit-content;
 }
 
-.frame {
-  display: flex;
-  justify-content: center;
+.frame img{
+  display: block;
   align-items: center;
+  width:100vw;
 }
 
 footer {
