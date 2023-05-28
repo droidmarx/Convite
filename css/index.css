@@ -24,12 +24,6 @@ footer {
   }
 }
 
-@media (min-height: 700px) {
-  .bg {
-    display: none;
-  }
-}
-
 .bg {
   width: 100%;
   height: max-content;
