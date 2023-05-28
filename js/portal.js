@@ -27,7 +27,3 @@ function handleLogout() {
     window.location.href = "./index.html";
   }, 200);
 }
-
-
-
-
